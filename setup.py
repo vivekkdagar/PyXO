@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='tictacai',
+    name='tactacai',
     version='1.0',
     packages=find_packages(),
     install_requires=[
@@ -13,7 +13,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'tictacai = tictacai.interface:tictactoe',
+            'tactacai = tactacai.interface:tictactoe',
         ],
     },
     author='Vivek Dagar',

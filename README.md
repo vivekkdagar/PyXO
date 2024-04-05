@@ -31,7 +31,7 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/vivekkdagar/TicTacAI/blob/main/screenshots![img.png](img.png)/screenshot.png)
+![Screen Shot](https://github.com/vivekkdagar/TicTacAI/blob/main/screenshots/screenshot.png)
 
 ## Gameplay
 

@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">TicTacAI</h3>
+  <h3 align="center">TacTacAI</h3>
 
   <p align="center">
     A simple command-line version of the Tic Tac Toe game that allows users to play against each other or against an AI.

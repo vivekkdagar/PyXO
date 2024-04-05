@@ -20,7 +20,7 @@ setup(
     author_email='vivekdagar2024@gmail.com',
     description='Tic Tac Toe game that allows you to play against a human or an AI powered by Minimax algorithm and '
                 'also saves your score.',
-    url='https://github.com/vivekkdagar/TicTacAI',
+    url='https://github.com/vivekkdagar/tactacai',
     long_description="""Please refer to the Github for usage guide and more {
     https://github.com/vivekkdagar/TicTacAI}""",
     long_description_content_type='text/markdown',

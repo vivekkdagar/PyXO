@@ -10,11 +10,6 @@ from tabulate import tabulate
 from .statistics import Statistics
 
 
-def abort():
-    print("\nGame aborted. Thanks for playing!")
-    exit()
-
-
 def wins(state, player):
     win_state = [
         [state[0][0], state[0][1], state[0][2]],
